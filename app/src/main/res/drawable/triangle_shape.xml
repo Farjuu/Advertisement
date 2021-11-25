@@ -1,0 +1,14 @@
+<shape android:shape="ring"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <size android:width="100dp" android:height="60dp"/>
+<!--
+    <gradient
+        android:angle="290"
+        android:centerColor="#FF685D"
+        android:startColor="#FF686D"
+        android:endColor="#FF686D"
+        android:centerX="0.2"
+        android:centerY="0.2"/>-->
+    <solid android:color="#FFC3C4"> </solid>
+    <stroke android:color="#FF686D" android:width="40dp"/>
+</shape>

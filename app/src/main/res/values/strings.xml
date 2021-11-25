@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Demo</string>
     <string name="click_me">Click me!!</string>
+    <string name="see_interstitial_ads">See Interstitial Ads</string>
+    <string name="watch_interstitial_ads">watch interstitial ads</string>
+    <string name="splash_page_text">Ad Integration</string>
 </resources>
