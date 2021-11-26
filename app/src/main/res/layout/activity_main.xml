@@ -10,8 +10,8 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="160dp"
-        android:layout_height="160dp"
+        android:layout_width="210dp"
+        android:layout_height="210dp"
         android:background="@drawable/circle_shape"
         android:fontFamily="@font/aldrich"
 

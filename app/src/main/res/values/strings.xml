@@ -4,4 +4,6 @@
     <string name="see_interstitial_ads">See Interstitial Ads</string>
     <string name="watch_interstitial_ads">watch interstitial ads</string>
     <string name="splash_page_text">Ad Integration</string>
+    <string name="logo">Logo</string>
+    <string name="integration_of_ads_n_and_nnotification">Integration of Ads\n and \nNotification</string>
 </resources>
